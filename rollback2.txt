@@ -1,7 +1,0 @@
-This is for rollback from commit.
-
-<<<<<<< HEAD
-
-=======
-changes are applied.
->>>>>>> release
